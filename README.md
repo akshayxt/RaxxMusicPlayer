@@ -1,65 +1,73 @@
+# Welcome to your Lovable project
 
+## Project info
 
-<pre style="color:#ff00ff; background:#000; font-family: monospace;">
-<span style="color:#00ffff;">┌──────────────────────────────────────────────────────────┐</span>
-<span style="color:#ffff00;">│  > RGB BASS OVERDRIVE INITIATED...                       │</span>
-<span style="color:#ff0000;">│  > RED CHANNEL: MAXIMUM                                  │</span>
-<span style="color:#00ff00;">│  > GREEN CHANNEL: MAXIMUM                                │</span>
-<span style="color:#0000ff;">│  > BLUE CHANNEL: MAXIMUM                                 │</span>
-<span style="color:#ff00ff;">│  > RAXX MUSIC PLAYER // FULL RGB SPECTRUM ACTIVATED      │</span>
-<span style="color:#00ffff;">└──────────────────────────────────────────────────────────┘</span>
-</pre>
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=akshayxt.raxxmusicplayer&style=for-the-badge)](https://github.com/akshayxt.raxxmusicplayer)
-[![Stars](https://img.shields.io/github/stars/akshayxt.raxxmusicplayer?color=ff0066&label=STARS&style=for-the-badge&logo=github)](https://github.com/akshayxt/raxxmusicplayer/stargazers)
-[![Forks](https://img.shields.io/github/forks/akshayxt.raxxmusicplayer?color=00ffcc&style=for-the-badge&logo=git)](https://github.com/akshayxt/raxxmusicplayer/network/members)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=FFD62F&style=for-the-badge)](https://vitejs.dev/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
+## How can I edit this code?
 
-> **"When the bass hits, the colors explode."**  
-> — RGB Overlord, 2026
+There are several ways of editing your application.
 
-## // RGB DOMINATION PROTOCOL: PROJECT MANIFEST
+**Use Lovable**
 
-**RAXX Music Player** — A **high-voltage RGB-infused web music player** engineered for maximum visual bass impact. Powered by TypeScript, Vite, and Tailwind CSS with explosive neon glows, dynamic color shifts, and pure audio adrenaline.
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-<span style="color:#ff0000;">Status:</span> **RGB Overdrive** | <span style="color:#00ff00;">Visual Threat Level:</span> Seizure-Inducing Fidelity
+Changes made via Lovable will be committed automatically to this repo.
 
-### > RGB CORE EXPLOITS UNLEASHED
-- **Spectrum Playlist Dominator** → Drag-drop, dynamic queues with glowing track highlights
-- **Bass-Reactive Visualizer** → Real-time waveform that pulses in full RGB glory
-- **Zero-Lag RGB Interface** → Smooth transitions and color-shifting accents
-- **Responsive Glow Engine** → Adapts to any screen with maximum chromatic intensity
-- **Dynamic Theme Shifts** → Red-hot intensity to cool blue vibes on the fly
-- **Lightning-Fast Playback** → Vite-powered for instant track drops
+**Use your preferred IDE**
 
-## // DECRYPTED RGB TECH MATRIX
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-| Layer           | Implant                               | Status         |
-|-----------------|---------------------------------------|----------------|
-| Core            | TypeScript + HTML5 Audio API          | Full Spectrum  |
-| Styling         | Tailwind CSS (RGB Glow Overload)      | Pulsating      |
-| Visuals         | Canvas/Web Audio Reactive Effects     | Explosive      |
-| Build           | Vite (Hypercolor Speed)               | Chromatic      |
-| Future Augments | RGB Lighting Sync, Shader Visualizers | Incoming Fire  |
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-<span style="color:#ffff00;">> Planned Explosions:</span> Hardware RGB sync, reactive shaders, multi-color themes
+Follow these steps:
 
-## // INFILTRATION & RGB DEPLOYMENT
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-```bash
-# Clone the chromatic repo
-git clone https://github.com/akshayxt/raxxmusicplayer.git
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-# Enter the spectrum
-cd raxxmusicplayer
+# Step 3: Install the necessary dependencies.
+npm i
 
-# Install color dependencies
-npm install
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-# Ignite the RGB matrix
-npm run dev    # Vite dev server - watch the glow
-# or build for production
-npm run build
-npm run preview
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
